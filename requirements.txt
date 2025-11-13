@@ -1,0 +1,27 @@
+# Core
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+scipy
+jupyterlab
+ipykernel
+
+# Time series / forecasting
+prophet; platform_system != "Windows"
+pmdarima
+
+# NLP
+scikit-learn
+wordcloud
+
+# App
+streamlit
+plotly
+
+# Dev
+black
+isort
+flake8
+pre-commit

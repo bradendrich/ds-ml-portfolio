@@ -1,0 +1,24 @@
+name: ds-ml-portfolio
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.10
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - scipy
+  - jupyterlab
+  - ipykernel
+  - prophet
+  - pmdarima
+  - pip
+  - pip:
+      - streamlit
+      - plotly
+      - wordcloud
+      - pre-commit
+      - black
+      - isort
+      - flake8

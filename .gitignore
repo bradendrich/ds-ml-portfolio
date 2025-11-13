@@ -1,0 +1,33 @@
+# Environments
+.venv/
+env/
+venv/
+*.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data & artifacts
+data/
+datasets/
+reports/
+outputs/
+models/
+*.model
+*.pkl
+*.joblib
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
